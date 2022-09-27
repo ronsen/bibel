@@ -1,0 +1,530 @@
+[
+    {
+        "category_id": 1,
+        "id": 1,
+        "name": "1 Musa",
+        "number_of_chapters": 50,
+        "slug": "1-musa",
+        "sort_order": 10
+    },
+    {
+        "category_id": 1,
+        "id": 2,
+        "name": "2 Musa",
+        "number_of_chapters": 40,
+        "slug": "2-musa",
+        "sort_order": 20
+    },
+    {
+        "category_id": 1,
+        "id": 3,
+        "name": "3 Musa",
+        "number_of_chapters": 27,
+        "slug": "3-musa",
+        "sort_order": 30
+    },
+    {
+        "category_id": 1,
+        "id": 4,
+        "name": "4 Musa",
+        "number_of_chapters": 36,
+        "slug": "4-musa",
+        "sort_order": 40
+    },
+    {
+        "category_id": 1,
+        "id": 5,
+        "name": "5 Musa",
+        "number_of_chapters": 34,
+        "slug": "5-musa",
+        "sort_order": 50
+    },
+    {
+        "category_id": 1,
+        "id": 6,
+        "name": "Josua",
+        "number_of_chapters": 24,
+        "slug": "josua",
+        "sort_order": 60
+    },
+    {
+        "category_id": 1,
+        "id": 7,
+        "name": "Panguhum",
+        "number_of_chapters": 21,
+        "slug": "panguhum",
+        "sort_order": 70
+    },
+    {
+        "category_id": 1,
+        "id": 8,
+        "name": "Rut",
+        "number_of_chapters": 4,
+        "slug": "rut",
+        "sort_order": 80
+    },
+    {
+        "category_id": 1,
+        "id": 9,
+        "name": "1 Samuel",
+        "number_of_chapters": 31,
+        "slug": "1-samuel",
+        "sort_order": 90
+    },
+    {
+        "category_id": 1,
+        "id": 10,
+        "name": "2 Samuel",
+        "number_of_chapters": 24,
+        "slug": "2-samuel",
+        "sort_order": 100
+    },
+    {
+        "category_id": 1,
+        "id": 11,
+        "name": "1 Raja-raja",
+        "number_of_chapters": 22,
+        "slug": "1-raja-raja",
+        "sort_order": 110
+    },
+    {
+        "category_id": 1,
+        "id": 12,
+        "name": "2 Raja-raja",
+        "number_of_chapters": 25,
+        "slug": "2-raja-raja",
+        "sort_order": 120
+    },
+    {
+        "category_id": 1,
+        "id": 13,
+        "name": "1 Kronika",
+        "number_of_chapters": 29,
+        "slug": "1-kronika",
+        "sort_order": 130
+    },
+    {
+        "category_id": 1,
+        "id": 14,
+        "name": "2 Kronika",
+        "number_of_chapters": 36,
+        "slug": "2-kronika",
+        "sort_order": 140
+    },
+    {
+        "category_id": 1,
+        "id": 15,
+        "name": "Esra",
+        "number_of_chapters": 10,
+        "slug": "esra",
+        "sort_order": 150
+    },
+    {
+        "category_id": 1,
+        "id": 16,
+        "name": "Nehemia",
+        "number_of_chapters": 13,
+        "slug": "nehemia",
+        "sort_order": 160
+    },
+    {
+        "category_id": 1,
+        "id": 17,
+        "name": "Ester",
+        "number_of_chapters": 10,
+        "slug": "ester",
+        "sort_order": 170
+    },
+    {
+        "category_id": 1,
+        "id": 18,
+        "name": "Job",
+        "number_of_chapters": 42,
+        "slug": "job",
+        "sort_order": 180
+    },
+    {
+        "category_id": 1,
+        "id": 19,
+        "name": "Psalmen",
+        "number_of_chapters": 150,
+        "slug": "psalmen",
+        "sort_order": 190
+    },
+    {
+        "category_id": 1,
+        "id": 20,
+        "name": "Poda",
+        "number_of_chapters": 31,
+        "slug": "poda",
+        "sort_order": 200
+    },
+    {
+        "category_id": 1,
+        "id": 21,
+        "name": "Parjamita",
+        "number_of_chapters": 12,
+        "slug": "parjamita",
+        "sort_order": 210
+    },
+    {
+        "category_id": 1,
+        "id": 22,
+        "name": "Angka Ende",
+        "number_of_chapters": 8,
+        "slug": "angka-ende",
+        "sort_order": 220
+    },
+    {
+        "category_id": 1,
+        "id": 23,
+        "name": "Jesaya",
+        "number_of_chapters": 66,
+        "slug": "jesaya",
+        "sort_order": 230
+    },
+    {
+        "category_id": 1,
+        "id": 24,
+        "name": "Jeremia",
+        "number_of_chapters": 52,
+        "slug": "jeremia",
+        "sort_order": 240
+    },
+    {
+        "category_id": 1,
+        "id": 25,
+        "name": "Andung-andung",
+        "number_of_chapters": 5,
+        "slug": "andung-andung",
+        "sort_order": 250
+    },
+    {
+        "category_id": 1,
+        "id": 26,
+        "name": "Hesekiel",
+        "number_of_chapters": 48,
+        "slug": "hesekiel",
+        "sort_order": 260
+    },
+    {
+        "category_id": 1,
+        "id": 27,
+        "name": "Daniel",
+        "number_of_chapters": 12,
+        "slug": "daniel",
+        "sort_order": 270
+    },
+    {
+        "category_id": 1,
+        "id": 28,
+        "name": "Hosea",
+        "number_of_chapters": 14,
+        "slug": "hosea",
+        "sort_order": 280
+    },
+    {
+        "category_id": 1,
+        "id": 29,
+        "name": "Joel",
+        "number_of_chapters": 3,
+        "slug": "joel",
+        "sort_order": 290
+    },
+    {
+        "category_id": 1,
+        "id": 30,
+        "name": "Amos",
+        "number_of_chapters": 9,
+        "slug": "amos",
+        "sort_order": 300
+    },
+    {
+        "category_id": 1,
+        "id": 31,
+        "name": "Obaja",
+        "number_of_chapters": 1,
+        "slug": "obaja",
+        "sort_order": 310
+    },
+    {
+        "category_id": 1,
+        "id": 32,
+        "name": "Jona",
+        "number_of_chapters": 4,
+        "slug": "jona",
+        "sort_order": 320
+    },
+    {
+        "category_id": 1,
+        "id": 33,
+        "name": "Mika",
+        "number_of_chapters": 7,
+        "slug": "mika",
+        "sort_order": 330
+    },
+    {
+        "category_id": 1,
+        "id": 34,
+        "name": "Nahum",
+        "number_of_chapters": 3,
+        "slug": "nahum",
+        "sort_order": 340
+    },
+    {
+        "category_id": 1,
+        "id": 35,
+        "name": "Habakuk",
+        "number_of_chapters": 3,
+        "slug": "habakuk",
+        "sort_order": 350
+    },
+    {
+        "category_id": 1,
+        "id": 36,
+        "name": "Sepania",
+        "number_of_chapters": 3,
+        "slug": "sepania",
+        "sort_order": 360
+    },
+    {
+        "category_id": 1,
+        "id": 37,
+        "name": "Haggai",
+        "number_of_chapters": 2,
+        "slug": "haggai",
+        "sort_order": 370
+    },
+    {
+        "category_id": 1,
+        "id": 38,
+        "name": "Sakaria",
+        "number_of_chapters": 14,
+        "slug": "sakaria",
+        "sort_order": 380
+    },
+    {
+        "category_id": 1,
+        "id": 39,
+        "name": "Maleaki",
+        "number_of_chapters": 4,
+        "slug": "maleaki",
+        "sort_order": 390
+    },
+    {
+        "category_id": 2,
+        "id": 40,
+        "name": "Mateus",
+        "number_of_chapters": 28,
+        "slug": "mateus",
+        "sort_order": 400
+    },
+    {
+        "category_id": 2,
+        "id": 41,
+        "name": "Markus",
+        "number_of_chapters": 16,
+        "slug": "markus",
+        "sort_order": 410
+    },
+    {
+        "category_id": 2,
+        "id": 42,
+        "name": "Lukas",
+        "number_of_chapters": 24,
+        "slug": "lukas",
+        "sort_order": 420
+    },
+    {
+        "category_id": 2,
+        "id": 43,
+        "name": "Johannes",
+        "number_of_chapters": 21,
+        "slug": "johannes",
+        "sort_order": 430
+    },
+    {
+        "category_id": 2,
+        "id": 44,
+        "name": "Ulaon ni Apostel",
+        "number_of_chapters": 28,
+        "slug": "ulaon-ni-apostel",
+        "sort_order": 440
+    },
+    {
+        "category_id": 2,
+        "id": 45,
+        "name": "Rom",
+        "number_of_chapters": 16,
+        "slug": "rom",
+        "sort_order": 450
+    },
+    {
+        "category_id": 2,
+        "id": 46,
+        "name": "1 Korint",
+        "number_of_chapters": 16,
+        "slug": "1-korint",
+        "sort_order": 460
+    },
+    {
+        "category_id": 2,
+        "id": 47,
+        "name": "2 Korint",
+        "number_of_chapters": 13,
+        "slug": "2-korint",
+        "sort_order": 470
+    },
+    {
+        "category_id": 2,
+        "id": 48,
+        "name": "Galatia",
+        "number_of_chapters": 6,
+        "slug": "galatia",
+        "sort_order": 480
+    },
+    {
+        "category_id": 2,
+        "id": 49,
+        "name": "Epesus",
+        "number_of_chapters": 4,
+        "slug": "epesus",
+        "sort_order": 490
+    },
+    {
+        "category_id": 2,
+        "id": 50,
+        "name": "Pilippi",
+        "number_of_chapters": 4,
+        "slug": "pilippi",
+        "sort_order": 500
+    },
+    {
+        "category_id": 2,
+        "id": 51,
+        "name": "Kolosse",
+        "number_of_chapters": 4,
+        "slug": "kolosse",
+        "sort_order": 510
+    },
+    {
+        "category_id": 2,
+        "id": 52,
+        "name": "1 Tessalonik",
+        "number_of_chapters": 5,
+        "slug": "1-tessalonik",
+        "sort_order": 520
+    },
+    {
+        "category_id": 2,
+        "id": 53,
+        "name": "2 Tessalonik",
+        "number_of_chapters": 3,
+        "slug": "2-tessalonik",
+        "sort_order": 530
+    },
+    {
+        "category_id": 2,
+        "id": 54,
+        "name": "1 Timoteus",
+        "number_of_chapters": 6,
+        "slug": "1-timoteus",
+        "sort_order": 540
+    },
+    {
+        "category_id": 2,
+        "id": 55,
+        "name": "2 Timoteus",
+        "number_of_chapters": 4,
+        "slug": "2-timoteus",
+        "sort_order": 550
+    },
+    {
+        "category_id": 2,
+        "id": 56,
+        "name": "Titus",
+        "number_of_chapters": 3,
+        "slug": "titus",
+        "sort_order": 560
+    },
+    {
+        "category_id": 2,
+        "id": 57,
+        "name": "Pilemon",
+        "number_of_chapters": 1,
+        "slug": "pilemon",
+        "sort_order": 570
+    },
+    {
+        "category_id": 2,
+        "id": 58,
+        "name": "Heber",
+        "number_of_chapters": 13,
+        "slug": "heber",
+        "sort_order": 580
+    },
+    {
+        "category_id": 2,
+        "id": 59,
+        "name": "Jakobus",
+        "number_of_chapters": 5,
+        "slug": "jakobus",
+        "sort_order": 590
+    },
+    {
+        "category_id": 2,
+        "id": 60,
+        "name": "1 Petrus",
+        "number_of_chapters": 5,
+        "slug": "1-petrus",
+        "sort_order": 600
+    },
+    {
+        "category_id": 2,
+        "id": 61,
+        "name": "2 Petrus",
+        "number_of_chapters": 3,
+        "slug": "2-petrus",
+        "sort_order": 610
+    },
+    {
+        "category_id": 2,
+        "id": 62,
+        "name": "1 Johannes",
+        "number_of_chapters": 5,
+        "slug": "1-jonannes",
+        "sort_order": 620
+    },
+    {
+        "category_id": 2,
+        "id": 63,
+        "name": "2 Johannes",
+        "number_of_chapters": 1,
+        "slug": "2-johannes",
+        "sort_order": 630
+    },
+    {
+        "category_id": 2,
+        "id": 64,
+        "name": "3 Johannes",
+        "number_of_chapters": 1,
+        "slug": "3-johannes",
+        "sort_order": 640
+    },
+    {
+        "category_id": 2,
+        "id": 65,
+        "name": "Judas",
+        "number_of_chapters": 1,
+        "slug": "judas",
+        "sort_order": 650
+    },
+    {
+        "category_id": 2,
+        "id": 66,
+        "name": "Pangungkapon",
+        "number_of_chapters": 22,
+        "slug": "pangungkapon",
+        "sort_order": 660
+    }
+]
