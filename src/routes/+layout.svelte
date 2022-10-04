@@ -8,10 +8,10 @@
     </div>
 </nav>
 
-<main class="container mx-auto mt-3 mb-12 px-3">
+<main class="w-full lg:w-3/5 mx-auto mt-3 mb-12 px-3">
     <slot />
 </main>
 
-<footer class="fixed left-0 bottom-0 w-full text-center text-xs p-2 bg-zinc-900 text-white opacity-50">
+<footer class="fixed left-0 bottom-0 w-full text-center text-xs p-2 bg-zinc-900 text-white">
     <a href="https://s.id/ronsen" target="_blank">Built with &hearts; by Ronald Nababan</a>
 </footer>

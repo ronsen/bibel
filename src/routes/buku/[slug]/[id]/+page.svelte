@@ -12,13 +12,11 @@
     {data.chapter.number}
 </div>
 
-<div class="w-full lg:w-3/5 mx-auto">
-    <article class="verses">
-        {#each data.verses as verse}
-            <div class="mb-2">
-                <sup class="text-xs">{verse.number}</sup>
-                {verse.content}
-            </div>
-        {/each}
-    </article>
-</div>
+<article class="verses">
+    {#each data.verses as verse}
+        <div class="mb-2">
+            <sup class="text-xs">{verse.number}</sup>
+            {verse.content}
+        </div>
+    {/each}
+</article>
