@@ -1,5 +1,19 @@
 <script>
+    import NProgress from 'nprogress';
+	import { navigating } from '$app/stores';
+
+    import 'nprogress/nprogress.css';
     import "../app.css";
+
+    NProgress.configure({ minimum: 0.16 });
+    $: {
+		if ($navigating) {
+			NProgress.start();
+		}
+		if (!$navigating) {
+			NProgress.done();
+		}
+	}
 </script>
 
 <nav class="bg-white shadow px-3 py-2 font-bold">
