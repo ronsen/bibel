@@ -8,7 +8,7 @@
 </svelte:head>
 
 <div class="border-b mb-3 pb-3 font-bold">
-    <a href="/buku/{data.book.slug}">{data.book.name}</a>
+    <a href="/{data.book.slug}">{data.book.name}</a>
     {data.chapter.number}
 </div>
 
