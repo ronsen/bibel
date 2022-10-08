@@ -1,5 +1,5 @@
 <script>
-    import Books from "$lib/books.json";
+    import books from "$lib/books.json";
 </script>
 
 <svelte:head>
@@ -10,7 +10,7 @@
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <div>
         <h3 class="font-bold border-b pb-2 mb-2">Padan Na Robi</h3>
-        {#each Books as book}
+        {#each books as book}
             {#if book.category_id == 1}
             <div class="flex justify-between border-b pb-2 mb-2">
                 <a href="/{book.slug}">{book.name}</a>
@@ -22,7 +22,7 @@
 
     <div>
         <h3 class="font-bold border-b pb-2 mb-2">Padan Na Imbaru</h3>
-        {#each Books as book}
+        {#each books as book}
             {#if book.category_id == 2}
             <div class="flex justify-between border-b pb-2 mb-2">
                 <a href="/{book.slug}">{book.name}</a>
