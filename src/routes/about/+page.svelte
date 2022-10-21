@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Tentang</title>
+</svelte:head>
+
 <h3 class="font-bold text-2xl border-b pb-2 mb-2">Tentang</h3>
 
 <h4 class="text-2xl mb-3">Hata Haporseaon</h4>

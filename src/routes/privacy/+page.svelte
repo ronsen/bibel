@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Kebijakan Privasi</title>
+</svelte:head>
+
 <h3 class="font-bold text-2xl border-b pb-2 mb-2">Kebijakan Privasi</h3>
 
 <p class="mb-3">
