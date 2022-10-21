@@ -35,5 +35,5 @@
 <h4 class="text-2xl mt-6 mb-3">Kontak</h4>
 
 <p class="mb-3">
-    <a href="https://ronsen.github.io/" class="underline">Ronald Nababan</a>
+    <a href="https://s.id/ronsen" class="underline" target="_blank" rel="noreferrer">Ronald Nababan</a>
 </p>

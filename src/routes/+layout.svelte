@@ -33,7 +33,7 @@
             <div class="inline-flex gap-2">
                 <a href="/privacy">Privasi</a>
                 <a href="/about">Tentang</a>
-                <a href="https://trakteer.id/ronaldnababan/tip?quantity=1" target="_blank">Donasi</a>
+                <a href="https://trakteer.id/ronaldnababan/tip?quantity=1" target="_blank" rel="noreferrer">Donasi</a>
             </div>
         </div>
     </div>
