@@ -15,9 +15,7 @@
 <div class="grid grid-cols-4 gap-4">
     {#each chapters as chapter}
         <div class="text-center border-b pb-2 mb-2">
-            <a href="/{data.book.slug}/{chapter.number}"
-                >{chapter.number}</a
-            >
+            <a href="/{data.book.slug}/{chapter.number}">{chapter.number}</a>
         </div>
     {/each}
 </div>
