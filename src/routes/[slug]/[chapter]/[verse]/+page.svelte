@@ -5,12 +5,12 @@
 </script>
 
 <svelte:head>
-    <title>{book.name} {chapter.number} : {verse.number}</title>
+    <title>{book.name} {chapter} : {verse.number}</title>
 </svelte:head>
 
 <div class="border-b mb-3 pb-3 font-bold">
-    <a href="/{book.slug}">{book.name}</a>
-    <a href="/{book.slug}/{chapter.number}">{chapter.number}</a>
+    <a href="/{book.abbr}">{book.name}</a>
+    <a href="/{book.abbr}/{chapter}">{chapter}</a>
     <span>:</span>
     {verse.number}
 </div>

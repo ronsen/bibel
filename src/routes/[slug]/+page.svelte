@@ -1,7 +1,7 @@
 <script>
     /** @type {import('./$types').PageData} */
     export let data;
-    const { book, chapters } = data;
+    const { book } = data;
 </script>
 
 <svelte:head>
@@ -13,9 +13,9 @@
 </div>
 
 <div class="grid grid-cols-4 gap-4">
-    {#each chapters as chapter}
+    {#each Array(book.number_of_chapters) as _, i}
         <div class="text-center border-b pb-2 mb-2">
-            <a href="/{data.book.slug}/{chapter.number}">{chapter.number}</a>
+            <a href="/{data.book.abbr}/{i + 1}">{i + 1}</a>
         </div>
     {/each}
 </div>

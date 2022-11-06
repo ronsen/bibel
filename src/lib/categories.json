@@ -1,14 +1,14 @@
 [
     {
+        "abbr": "padan-na-robi",
         "id": 1,
         "name": "Padan Na Robi",
-        "slug": "padan-na-robi",
         "sort_order": 10
     },
     {
+        "abbr": "padan-na-imbaru",
         "id": 2,
         "name": "Padan Na Imbaru",
-        "slug": "padan-na-imbaru",
         "sort_order": 20
     }
 ]

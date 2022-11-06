@@ -13,7 +13,7 @@
         {#each books as book}
             {#if book.category_id == 1}
             <div class="flex justify-between border-b pb-2 mb-2">
-                <a href="/{book.slug}">{book.name}</a>
+                <a href="/{book.abbr}">{book.name}</a>
                 {book.number_of_chapters}
             </div>
             {/if}
@@ -25,7 +25,7 @@
         {#each books as book}
             {#if book.category_id == 2}
             <div class="flex justify-between border-b pb-2 mb-2">
-                <a href="/{book.slug}">{book.name}</a>
+                <a href="/{book.abbr}">{book.name}</a>
                 {book.number_of_chapters}
             </div>
             {/if}
