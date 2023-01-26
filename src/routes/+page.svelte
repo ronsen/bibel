@@ -1,7 +1,5 @@
 <script>
-    /** @type {import('./$types').PageData} */
-    export let data;
-    const { books } = data;
+    import books from "$lib/books.json";
 </script>
 
 <svelte:head>
