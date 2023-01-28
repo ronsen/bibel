@@ -9,8 +9,8 @@ export const load = () => {
         return { books };
     }
 
-    const books = JSON.parse(fs.readFileSync('./src/lib/books.json'));
-    cache.set('BOOKS', books);
+    const booksJson = JSON.parse(fs.readFileSync('./src/lib/books.json'));
+    cache.set('BOOKS', booksJson);
 
     return { books };
 }
